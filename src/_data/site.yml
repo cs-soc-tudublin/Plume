@@ -54,80 +54,80 @@ home:
     - name: Lívia Guimarães
       position: 🪑 Chair
       username: livguimaraes
-      image: /assets/img/committee/livnew.webp
+      image: ./assets/img/committee/liv.webp
     - name: Faith Omotayo
       position: 🪑 Vice-Chair
       username: faithomotayo
-      image: /assets/img/committee/faith.webp
+      image: ./assets/img/committee/faith.webp
     - name: Anmool Shah
       position: 💌 Secretary
       username: anmool
-      image: /assets/img/committee/anmool.webp
+      image: ./assets/img/committee/anmool.webp
     - name: It could be you!
       position: 💸 Treasurer
       username: joinUs
-      image: /assets/img/committee/unknown.webp
+      image: ./assets/img/committee/unknown.webp
     - name: Parva Shah
       position: 📢 PRO
       username: ???
-      image: /assets/img/committee/unknown.webp
+      image: ./assets/img/committee/unknown.webp
     - name: Eman Abdelatti
       position: 👩‍⚕️ HSO
       username: Emmy24
-      image: /assets/img/committee/eman.webp
+      image: ./assets/img/committee/eman.webp
     - name: It could be you!
       position: 💻 Tech Events Officer
       username: joinUs
-      image: /assets/img/committee/unknown.webp
+      image: ./assets/img/committee/unknown.webp
     - name: Bohdan Yeriemienko
       position: 🥳 Social Events Officer
       username: bohdan
-      image: /assets/img/committee/bohdan.webp
+      image: ./assets/img/committee/bohdan.webp
     - name: Daniel Smyth
       position: 🚀 SysAdmin
       username: rockerkemm
-      image: /assets/img/committee/dan.webp
+      image: ./assets/img/committee/dan.webp
     - name: D O'Flynn
       position: 🚀 SysAdmin
       username: BigCheese
-      image: /assets/img/committee/derv.webp
+      image: ./assets/img/committee/derv.webp
     - name: MJ
       position: 🚀 SysAdmin
-      username: mjm
-      image: /assets/img/committee/mj.webp
+      username: DroolingFeralHog
+      image: ./assets/img/committee/mj.webp
     - name: Ruán Murgatroyd
       position: 🚀 SysAdmin
       username: rjm
-      image: /assets/img/committee/ruannew.webp
+      image: ./assets/img/committee/ruan.webp
     - name: Tyler Bradley
       position: 🚀 SysAdmin
       username: relyT
-      image: /assets/img/committee/tyler.webp
+      image: ./assets/img/committee/tyler.webp
     - name: It could be you!
       position: 🗓️ Events Rep
       username: joinUs
-      image: /assets/img/committee/unknown.webp
+      image: ./assets/img/committee/unknown.webp
     - name: It could be you!
       position: 👼 First Year Rep
       username: joinUs
-      image: /assets/img/committee/unknown.webp
+      image: ./assets/img/committee/unknown.webp
     - name: It could be you!
       position: 😅 Second Year Rep
       username: joinUs
-      image: /assets/img/committee/unknown.webp
+      image: ./assets/img/committee/unknown.webp
   sponsorSection:
     enquiryStart: Want to be part of something great?
     enquiryEnd: Get in touch!
     enquiryLink: mailto:comp@societies.tudublin.ie?subject=Sponsorship Inquiry
   sponsors:
     - name: Accenture
-      image: /assets/img/sponsors/accenture.png
+      image: ./assets/img/sponsors/accenture.png
       link: https://accenture.com/ie-en
       tier: Primary Sponsor
       weight: bold
       colour: primary
     - name: Rewriting the Code
-      image: /assets/img/sponsors/rtc.webp
+      image: ./assets/img/sponsors/rtc.webp
       link: https://rewritingthecode.org/
       tier: General Sponsor
       weight: normal
