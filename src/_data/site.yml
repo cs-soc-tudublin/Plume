@@ -69,8 +69,8 @@ home:
       image: ./assets/img/committee/unknown.webp
     - name: Parva Shah
       position: 📢 PRO
-      username: ???
-      image: ./assets/img/committee/unknown.webp
+      username: unsheeped
+      image: ./assets/img/committee/parva.webp
     - name: Eman Abdelatti
       position: 👩‍⚕️ HSO
       username: Emmy24
