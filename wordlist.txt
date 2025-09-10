@@ -78,7 +78,6 @@ rtc
 ruan
 ruannew
 sayo
-sayo
 sokomuso
 sonarqube
 sponsorSection
