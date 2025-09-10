@@ -32,7 +32,7 @@ home:
     title:
       secondary: TU Dublin's Computer Science Society.
       primary: Join us today!
-    body: CS++ was restarted in 2022 with a goal to aid its members - today, we help our members with their coursework, and give them access to invaluable experiences and skills!
+    body: CS++ got its name in 2022, and traces its history back to 1998 with one goal; to aid its members - today, we help our members with their coursework, and give them access to invaluable experiences and skills!
     buttons:
       primary:
         text: Sign Up!
@@ -120,12 +120,6 @@ home:
     enquiryEnd: Get in touch!
     enquiryLink: mailto:comp@societies.tudublin.ie?subject=Sponsorship Inquiry
   sponsors:
-    - name: Accenture
-      image: ./assets/img/sponsors/accenture.png
-      link: https://accenture.com/ie-en
-      tier: Primary Sponsor
-      weight: bold
-      colour: primary
     - name: Rewriting the Code
       image: ./assets/img/sponsors/rtc.webp
       link: https://rewritingthecode.org/
