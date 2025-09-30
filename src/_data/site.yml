@@ -67,10 +67,10 @@ home:
       position: 💸 Treasurer
       username: joinUs
       image: ./assets/img/committee/unknown.webp
-    - name: Parva Shah
+    - name: It could be you!
       position: 📢 PRO
-      username: unsheeped
-      image: ./assets/img/committee/parva.webp
+      username: joinUs
+      image: ./assets/img/committee/unknown.webp
     - name: Eman Abdelatti
       position: 👩‍⚕️ HSO
       username: Emmy24
