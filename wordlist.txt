@@ -34,11 +34,14 @@ ie
 img
 instagram
 joinUs
+kupracz
 liv
 livguimaraes
 mailto
 mj
 mjm
+nathan
+nathan06
 png
 relyT
 rewritingthecode
@@ -46,6 +49,7 @@ rjm
 rockerkemm
 rtc
 ruan
+saleem
 sonarqube
 sponsorSection
 svg
@@ -53,3 +57,4 @@ tudublin
 tudublincsplusplus
 tyler
 webp
+zartashia
