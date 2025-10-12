@@ -1,4 +1,6 @@
 Abdelatti
+Aidan
+aidan
 Anmool
 BigCheese
 Bohdan
@@ -8,6 +10,7 @@ HSO
 IdentityFlip
 Lívia
 MJ
+McPhee
 Murgatroyd
 O'Flynn
 Omotayo
@@ -17,6 +20,7 @@ Smyth
 Socs
 SysAdmin
 Yeriemienko
+amcp
 anmool
 bohdan
 cspp
@@ -34,11 +38,14 @@ ie
 img
 instagram
 joinUs
+kupracz
 liv
 livguimaraes
 mailto
 mj
 mjm
+nathan
+nathan06
 png
 relyT
 rewritingthecode
@@ -46,6 +53,7 @@ rjm
 rockerkemm
 rtc
 ruan
+saleem
 sonarqube
 sponsorSection
 svg
@@ -53,3 +61,4 @@ tudublin
 tudublincsplusplus
 tyler
 webp
+zartashia

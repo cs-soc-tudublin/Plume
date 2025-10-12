@@ -63,26 +63,26 @@ home:
       position: 💌 Secretary
       username: anmool
       image: ./assets/img/committee/anmool.webp
-    - name: It could be you!
+    - name: Aidan McPhee
       position: 💸 Treasurer
-      username: joinUs
-      image: ./assets/img/committee/unknown.webp
-    - name: It could be you!
+      username: amcp
+      image: ./assets/img/committee/aidan.webp
+    - name: Zartashia Saleem
       position: 📢 PRO
-      username: joinUs
-      image: ./assets/img/committee/unknown.webp
+      username: zartashia
+      image: ./assets/img/committee/zartashia.webp
     - name: Eman Abdelatti
       position: 👩‍⚕️ HSO
       username: Emmy24
       image: ./assets/img/committee/eman.webp
-    - name: It could be you!
+    - name: Nathan Kupracz
       position: 💻 Tech Events Officer
-      username: joinUs
-      image: ./assets/img/committee/unknown.webp
-    - name: Bohdan Yeriemienko
+      username: nathan06
+      image: ./assets/img/committee/nathan.webp
+    - name: Pending...
       position: 🥳 Social Events Officer
-      username: bohdan
-      image: ./assets/img/committee/bohdan.webp
+      username: pending
+      image: ./assets/img/committee/unknown.webp
     - name: Daniel Smyth
       position: 🚀 SysAdmin
       username: rockerkemm
@@ -103,17 +103,17 @@ home:
       position: 🚀 SysAdmin
       username: relyT
       image: ./assets/img/committee/tyler.webp
-    - name: It could be you!
+    - name: Pending...
       position: 🗓️ Events Rep
-      username: joinUs
+      username: pending
       image: ./assets/img/committee/unknown.webp
-    - name: It could be you!
+    - name: Pending...
       position: 👼 First Year Rep
-      username: joinUs
+      username: pending
       image: ./assets/img/committee/unknown.webp
-    - name: It could be you!
+    - name: Pending...
       position: 😅 Second Year Rep
-      username: joinUs
+      username: pending
       image: ./assets/img/committee/unknown.webp
   sponsorSection:
     enquiryStart: Want to be part of something great?
