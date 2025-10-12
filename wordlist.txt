@@ -20,7 +20,7 @@ Smyth
 Socs
 SysAdmin
 Yeriemienko
-acmp
+amcp
 anmool
 bohdan
 cspp
