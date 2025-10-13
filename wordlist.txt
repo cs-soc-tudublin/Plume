@@ -1,10 +1,10 @@
 Abdelatti
 Aidan
-aidan
 Anmool
 BigCheese
 Bohdan
 Eman
+Goldstein
 Guimarães
 HSO
 IdentityFlip
@@ -20,6 +20,7 @@ Smyth
 Socs
 SysAdmin
 Yeriemienko
+aidan
 amcp
 anmool
 bohdan
@@ -32,6 +33,7 @@ enquiryLink
 enquiryStart
 faithomotayo
 githubusercontent
+helena
 html
 https
 ie
@@ -39,6 +41,7 @@ img
 instagram
 joinUs
 kupracz
+lehgarciafhs
 liv
 livguimaraes
 mailto
@@ -54,6 +57,7 @@ rockerkemm
 rtc
 ruan
 saleem
+samuel
 sonarqube
 sponsorSection
 svg
