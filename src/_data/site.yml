@@ -79,10 +79,10 @@ home:
       position: 💻 Tech Events Officer
       username: nathan06
       image: ./assets/img/committee/nathan.webp
-    - name: Pending...
+    - name: Daria Nikiporets
       position: 🥳 Social Events Officer
-      username: pending
-      image: ./assets/img/committee/unknown.webp
+      username: dari
+      image: ./assets/img/committee/daria.webp
     - name: Daniel Smyth
       position: 🚀 SysAdmin
       username: rockerkemm
