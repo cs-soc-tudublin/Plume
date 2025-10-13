@@ -5,20 +5,20 @@ society:
   name: CS++
   tagline: TU Dublin's Computer Science Society.
 navigation:
-  global:
-    - text: Blog
-      link: /blog/posts/using-sonarqube.html
-  blog:
-    - text: Events
-      tag: events
-    - text: Admin Blog
-      tag: admins
-    - text: Tutorials
-      tag: tutorial
-    - text: Conferences
-      tag: conferences
-    - text: Newsletters
-      tag: newsletter
+#  global:
+#    - text: Blog
+#      link: /blog/posts/using-sonarqube.html
+#  blog:
+#    - text: Events
+#      tag: events
+#    - text: Admin Blog
+#      tag: admins
+#    - text: Tutorials
+#      tag: tutorial
+#    - text: Conferences
+#      tag: conferences
+#    - text: Newsletters
+#      tag: newsletter
   buttons:
     primary:
       text: Sign Up!
