@@ -103,14 +103,14 @@ home:
       position: 🚀 SysAdmin
       username: relyT
       image: ./assets/img/committee/tyler.webp
-    - name: Pending...
+    - name: Samuel Goldstein
       position: 🗓️ Events Rep
-      username: pending
-      image: ./assets/img/committee/unknown.webp
-    - name: Pending...
+      username: 1_scream
+      image: ./assets/img/committee/samuel.webp
+    - name: Helena Garcia
       position: 👼 First Year Rep
-      username: pending
-      image: ./assets/img/committee/unknown.webp
+      username: lehgarciafhs
+      image: ./assets/img/committee/helena.webp
     - name: Pending...
       position: 😅 Second Year Rep
       username: pending
