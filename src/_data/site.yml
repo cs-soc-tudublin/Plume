@@ -111,10 +111,10 @@ home:
       position: 👼 First Year Rep
       username: lehgarciafhs
       image: ./assets/img/committee/helena.webp
-    - name: Pending...
+    - name: Arturo Lopez Lozada
       position: 😅 Second Year Rep
-      username: pending
-      image: ./assets/img/committee/unknown.webp
+      username: iwatani
+      image: ./assets/img/committee/arturo.webp
   sponsorSection:
     enquiryStart: Want to be part of something great?
     enquiryEnd: Get in touch!
