@@ -9,6 +9,7 @@ Goldstein
 Guimarães
 HSO
 IdentityFlip
+Lozada
 Lívia
 MJ
 McPhee
@@ -25,6 +26,7 @@ Yeriemienko
 aidan
 amcp
 anmool
+arturo
 bohdan
 cspp
 cta
@@ -43,6 +45,7 @@ https
 ie
 img
 instagram
+iwatani
 joinUs
 kupracz
 lehgarciafhs
