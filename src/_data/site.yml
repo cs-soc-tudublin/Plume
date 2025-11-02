@@ -90,7 +90,7 @@ home:
     - name: D O'Flynn
       position: 🚀 SysAdmin
       username: BigCheese
-      image: ./assets/img/committee/derv.webp
+      image: ./assets/img/committee/doflynn.webp
     - name: MJ
       position: 🚀 SysAdmin
       username: mjm
@@ -126,6 +126,12 @@ home:
       tier: General Sponsor
       weight: normal
       colour: normal
+    - name: Accenture
+      image: ./assets/img/sponsors/accenture.png
+      link: https://www.accenture.com/ie-en
+      tier: Main Sponsor
+      weight: bold
+      colour: primary
 
 footer:
   credit: Powered by Redbrick's Atlas System
