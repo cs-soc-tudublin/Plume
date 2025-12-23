@@ -1,5 +1,6 @@
 ---
 layout: default.njk
+sitemapPriority: 1
 ---
 <main>
   {% include "home/sections/hero.njk" %}

@@ -1,0 +1,25 @@
+---
+permalink: /sitemap.xml
+eleventyExcludeFromSitemap: true
+---
+
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    {%- for item in collections.all -%}
+        {# Only include items that have a URL and are NOT explicitly excluded #}
+        {%- if item.url and not item.data.eleventyExcludeFromSitemap -%}
+            {%- if not item.url.startsWith('/assets/') -%}
+                <url>
+                    <loc>{{ site.url }}{{ item.url | url }}
+                    </loc>
+                    <lastmod>{{ item.date | date("yyyy-MM-dd") }}
+                    </lastmod>
+                    <changefreq>{{ item.data.sitemapChangefreq or "monthly" }}
+                    </changefreq>
+                    <priority>{{ item.data.sitemapPriority or 0.8 }}
+                    </priority>
+                </url>
+            {%- endif -%}
+        {%- endif -%}
+    {%- endfor -%}
+</urlset>
