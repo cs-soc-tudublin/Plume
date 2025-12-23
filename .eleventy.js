@@ -13,6 +13,7 @@ const markdown = require('./eleventy/parsers/markdown')
 const slugify = require('./eleventy/filters/slugify')
 
 const pkg = require('./package.json')
+const ISO_DATE_FORMAT = 'yyyy-MM-dd'
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.setUseGitIgnore(false)
@@ -51,6 +52,9 @@ module.exports = function (eleventyConfig) {
     return DateTime.fromJSDate(date).toLocaleString(
       DateTime.DATE_FULL
     )
+  })
+  eleventyConfig.addFilter('date', (date, format = ISO_DATE_FORMAT) => {
+    return DateTime.fromJSDate(date).toFormat(format)
   })
   eleventyConfig.addFilter('readingTime', (str) => {
     return readingTime(str, { wordsPerMinute: 250 }).text
