@@ -71,5 +71,6 @@ svg
 tudublin
 tudublincsplusplus
 tyler
+url
 webp
 zartashia
