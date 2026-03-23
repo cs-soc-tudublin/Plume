@@ -62,7 +62,7 @@ home:
     - name: Anmool Shah
       position: 💌 Secretary
       username: anmool
-      image: ./assets/img/committee/anmool.webp
+      image: ./assets/img/committee/anmoolNew.webp
     - name: Aidan McPhee
       position: 💸 Treasurer
       username: amcp
@@ -78,7 +78,7 @@ home:
     - name: Nathan Kupracz
       position: 💻 Tech Events Officer
       username: nathan06
-      image: ./assets/img/committee/nathan.webp
+      image: ./assets/img/committee/nathanNew.webp
     - name: Daria Nikiporets
       position: 🥳 Social Events Officer
       username: dari
