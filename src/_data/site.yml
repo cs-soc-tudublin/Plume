@@ -103,6 +103,10 @@ home:
       position: 🚀 SysAdmin
       username: relyT
       image: ./assets/img/committee/tyler.webp
+    - name: Jack Burdis
+      position: 🚀 SysAdmin
+      username: burdisso
+      image: ./assets/img/committee/jack.webp
     - name: Samuel Goldstein
       position: 🗓️ Events Rep
       username: 1_scream
