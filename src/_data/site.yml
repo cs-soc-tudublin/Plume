@@ -107,6 +107,10 @@ home:
       position: 🚀 SysAdmin
       username: burdisso
       image: ./assets/img/committee/jack.webp
+    - name: Teodor Stoyanov
+      position: 🚀 SysAdmin
+      username: to60
+      image: ./assets/img/committee/teodor.webp
     - name: Samuel Goldstein
       position: 🗓️ Events Rep
       username: 1_scream
