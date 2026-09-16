@@ -31,7 +31,7 @@ home:
   hero:
     title:
       secondary: TU Dublin's Computer Science Society.
-      primary: Up for grabs!
+      primary: Join us today!
     body: CS++ got its name in 2022, and traces its history back to 1998 with one goal; to aid its members - today, we help our members with their coursework, and give them access to invaluable experiences and skills!
     buttons:
       primary:
@@ -105,8 +105,8 @@ home:
       image: ./assets/img/committee/teodor.webp
     - name: Tan Winnie
       position: 🗓️ Events Rep
-      username: ???
-      image: ./assets/img/committee/unknown.webp
+      username: winnieee__
+      image: ./assets/img/committee/winnie.webp
     - name: Up for grabs!
       position: 👼 First Year Rep
       username: bitflip
