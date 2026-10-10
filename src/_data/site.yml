@@ -75,14 +75,14 @@ home:
       position: 👩‍⚕️ HSO
       username: gj07
       image: ./assets/img/committee/georgin.webp
-    - name: Up for grabs!
+    - name: Denys Lazorenko
       position: 💻 Tech Events Officer
-      username: bitflip
-      image: ./assets/img/committee/unknown.webp
-    - name: Up for grabs!
+      username: tyftaf
+      image: ./assets/img/committee/denys.webp
+    - name: Faith Omotayo
       position: 🥳 Social Events Officer
-      username: bitflip
-      image: ./assets/img/committee/unknown.webp
+      username: fomotayo
+      image: ./assets/img/committee/faith.webp
     - name: Daniel Smyth
       position: 🚀 SysAdmin
       username: rockerkemm
@@ -111,10 +111,10 @@ home:
       position: 👼 First Year Rep
       username: bitflip
       image: ./assets/img/committee/unknown.webp
-    - name: Up for grabs!
+    - name: Eithne Hagerty
       position: 😅 Second Year Rep
-      username: bitflip
-      image: ./assets/img/committee/unknown.webp
+      username: eithnehag
+      image: ./assets/img/committee/eithne.webp
   sponsorSection:
     enquiryStart: Want to be part of something great?
     enquiryEnd: Get in touch!
