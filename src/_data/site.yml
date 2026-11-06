@@ -38,10 +38,6 @@ home:
         text: Sign Up!
         link: https://join.cspp.ie
         aria: Link to the Clubs and Socs portal to join the society!
-      primary:
-        text: Contact Us!
-        link: "mailto:comp@societies.tudublin.ie?subject=Sponsorship Inquiry"
-        aria: Our email
       secondary:
         link: https://instagram.com/tudublincsplusplus
         aria: Link to our Instagram page!
