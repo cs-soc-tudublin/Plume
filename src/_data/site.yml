@@ -38,12 +38,17 @@ home:
         text: Sign Up!
         link: https://join.cspp.ie
         aria: Link to the Clubs and Socs portal to join the society!
+      primary:
+        text: Contact Us!
+        link: "mailto:comp@societies.tudublin.ie?subject=Sponsorship Inquiry"
+        aria: Our email
       secondary:
         link: https://instagram.com/tudublincsplusplus
         aria: Link to our Instagram page!
       tertiary:
         link: https://discord.cspp.ie
         aria: Link to our Discord server!
+        
   cta:
     title: Don't Miss Out!
     body: CS++ runs events of all kinds, provides discounted tickets to conferences, and helps you academically.
@@ -133,7 +138,7 @@ home:
       weight: bold
       colour: primary
     - name: MongoDB
-      image: ./assets/img/sponsors/mongodblogo.png
+      image: ./assets/img/sponsors/mongodb.png
       link: https://www.mongodb.com/
       tier: Main Sponsor
       weight: bold
